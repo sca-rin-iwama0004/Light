@@ -17,6 +17,9 @@ TagManager:
   - 7
   - 8
   - 9
+  - Hole
+  - Road
+  - Door
   layers:
   - Default
   - TransparentFX
